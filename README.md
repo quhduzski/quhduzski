@@ -5,12 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quhduzski&label=Profile%20views&color=0e75b6&style=flat" alt="quhduzski" /> </p>
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flavishwadhwani&psig=AOvVaw0Iks6LeTcOQhHROHIRVhzM&ust=1700218014733000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNj56_eryIIDFQAAAAAdAAAAABAb
-
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> You can reach me on X formerly Twitter via this link https://twitter.com/DS_Olalekan, on Linkedin via https://www.linkedin.com/in/aliu-qudus-olalekan-a99214196/, and my Gmail via qudusaliu98@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
