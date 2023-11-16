@@ -3,15 +3,10 @@
 <h3 align="center">A passionate and aspiring Data Analyst, Data Scientist, and a Business Central developer from Nigeria.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=quhduzski&label=Profile%20views&color=0e75b6&style=flat" alt="quhduzski" /> </p>
-
-
 ### Hi there 👋
 
+<h3 align="left">Get to know me, and also connect with me:</h3>
 
-<h3 align="left">GEt to know me, and also connect with me:</h3>
-<p align="left"> 
-</p>
 - 💞️ I'm a student of the Yaba College Of Technology, Yaba, Lagos state, and I studied Statistics
 - 👀 I’m interested in Data, and how to make sense of it (Collection, Organisation, Summarisation, Presentation, and Analysis of data to draw reasonable and valid conclusions)
 - 🌱 I’m currently learning Data Analysis with Power BI, SQL, Excel, and Python.
@@ -22,9 +17,4 @@
 - ⚡ Fun fact: My interest in data, Statistical analysis and problem-solving started as a result of my discipline (Statistics) and in the process of securing an internship in data analysis, I became a Business Central Developer, and I am happy about the steps I have taken so far in my life.
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=quhduzski&show_icons=true&locale=en&layout=compact" alt="quhduzski" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quhduzski&show_icons=true&locale=en" alt="quhduzski" /></p>
